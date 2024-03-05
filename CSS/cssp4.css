@@ -1,0 +1,68 @@
+h1{
+    color: rgb(248, 194, 233);
+    background-color: rgb(240, 123, 178);
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.areaBonita {
+    border:1px;
+    border-radius: 10%;
+    background-color: #f9a8e2;
+    color: #fd89d1;
+    height: 50px;
+    width: 450px;
+    font-size: 20px;
+
+}
+label {
+    padding-right: 10px;
+    font-size: 2opx;
+    color: #fc85de;
+  input{
+
+    font-size: 20px;
+    color: #eb84ca;
+    background-color: #787878;
+
+   }
+}
+
+.label2{
+    padding-right: 20px;
+    font-size: x-large;
+
+    input{
+
+        font-size: 20px;
+        color: #787878;
+        background-color: #787878;
+    }
+
+}
+.label3{
+    font-size: 20pz;
+    color: azure;
+
+    input{
+        font-size: 20px;
+        color: #787878;
+        background-color: #787878;
+    }
+}
+
+.label4{
+    padding-right: 20px;
+    font: caption;
+    font-size: 20px;
+    color: #787878;
+
+    input{
+        font-size: 20px;
+
+        color: #787878;
+        background-color: #787878;
+    }
+
+}
+
