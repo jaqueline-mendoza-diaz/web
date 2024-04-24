@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.container{
+    height: 100vh;
+    padding: 1rem;
+}
+.logo img{
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+.connect-friends{
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 28px;
+}
+
+.form{
+    max-width: 400px;
+    padding: 1rem;
+    margin: 1rem auto;
+    background-color: aqua;
+    border-radius: 7px;
+    box-shadow: 1px 1px 10px rgb(rgb(198, 8, 8), rgb(10, 161, 10), rgb(28, 28, 180));
+
+}
+.form input[type="text"]
+.form input[type="password"]
+.form input[type="submit"]{
+    padding: 1rem;
+    width: 100%;
+    margin-bottom: 10px;
+    online-color: #1877f2;
+    border: solid thin #dddfe2;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 17px;
+    text-align: left;
+
+}
+.form input ::placeholder{
+    color: #a6a8a8;
+}
+.form input[type="submit"]{
+    background-color:#1877f2 ;
+    text-align: center;
+    padding: .9ren .5rem;
+    font-weight: 600;
+    font-size: 200px;
+    color: #fff;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.form span {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 15px;
+}
+.form span a{
+    color: #247df1;
+    text-decoration: none;
+}
+.border{
+    width: 90%;
+    height: 1px;
+    background-color: #dadde1;
+    margin: 20px auto;
+}
+

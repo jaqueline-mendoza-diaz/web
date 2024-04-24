@@ -1,0 +1,49 @@
+.navegador{
+    display: flex;
+    background-color: #57f2cb;
+    /*overflow: hidden; */
+}
+.navegador ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 0%;
+    padding: 0%;
+    color: #85ffff;
+}
+.navegador .buscar{
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+     border-radius: 5px;
+     border: 1px solid #000;
+
+}
+.navegador .button{
+    margin-left: auto;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    border-radius: 5px;
+}
+.navegador input[type="text"]{
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.navegador img{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.navegador buscar img{
+    width: 20px;
+    height: 20px;
+}
