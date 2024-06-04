@@ -1,0 +1,17 @@
+.text-small {
+    font-size: 12px;
+}
+
+p {
+    text-align: center;
+    font-style: initial;
+    font-size: 25px;
+}
+
+.mt-auto {
+    font-size: 30px;
+}
+
+a .nav-link {
+    color: black;
+}
